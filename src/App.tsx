@@ -6,17 +6,17 @@ import TodoList from "./components/TodoList";
 const sampleData: ITodo[] = [
   {
     id: 1,
-    content: "🏃‍♀️ 달리기",
+    content: "운동하기",
     isDone: false,
   },
   {
     id: 2,
-    content: "🎈 풍선구매",
+    content: "복습하기",
     isDone: false,
   },
   {
     id: 3,
-    content: "🧹 청소하기",
+    content: "집안일하기",
     isDone: false,
   },
 ];
